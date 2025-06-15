@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "STM32_RF_LowPassFilter")(type "KiCad")(uri "${KIPRJMOD}/STM32withBluetooth-backups/STM32_RF_LowPassFilter.kicad_sym")(options "")(descr ""))
+)

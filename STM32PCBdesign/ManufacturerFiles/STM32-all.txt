@@ -1,0 +1,49 @@
+### Footprint positions - created on 2025-06-08T15:36:01-0500 ###
+### Printed by KiCad version 9.0.2
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                          Package                                                       PosX       PosY       Rot  Side
+C1        4u7                          C_0603_1608Metric                                          14.8460    14.7730  180.0000  top
+C2        4u7                          C_0603_1608Metric                                          14.5960     8.5230  180.0000  top
+C3        4u7                          C_0603_1608Metric                                          27.4320    12.9980  -90.0000  top
+C4        100n                         C_0402_1005Metric                                          29.3660    19.8480  180.0000  top
+C5        100n                         C_0402_1005Metric                                          37.8210    12.5430  -90.0000  top
+C6        100n                         C_0402_1005Metric                                          29.3010    16.0230  180.0000  top
+C7        100n                         C_0402_1005Metric                                          32.0710    25.7730  180.0000  top
+C8        100n                         C_0402_1005Metric                                          39.8210    18.5030  -90.0000  top
+C9        100n                         C_0402_1005Metric                                          30.0990    14.1960  -90.0000  top
+C10       4u7                          C_0603_1608Metric                                          30.0710    28.5230  180.0000  top
+C11       100n                         C_0402_1005Metric                                          32.0510    24.5230  180.0000  top
+C12       100n                         C_0402_1005Metric                                          39.8210    21.1730  -90.0000  top
+C13       100n                         C_0402_1005Metric                                          36.7210    12.5430  -90.0000  top
+C14       4u7                          C_0603_1608Metric                                          36.5960    25.7730  180.0000  top
+C15       0p8                          C_0402_1005Metric                                          43.3210    19.5030  -90.0000  top
+C16       0p3                          C_0402_1005Metric                                          46.3210    19.5030  -90.0000  top
+C17       10p                          C_0402_1005Metric                                          34.3210    12.4430  -90.0000  top
+C18       10p                          C_0402_1005Metric                                          30.0710    12.0930  -90.0000  top
+C19       100n                         C_0402_1005Metric                                          18.8210     5.5230  -90.0000  top
+D1        LED                          LED_0402_1005Metric                                        43.3210    12.2580   90.0000  top
+FLT1      DLF162500LT-5028A1           DLF162500LT-5028A1                                         50.2085    19.9730    0.0000  top
+FM1       Fiducial                     Fiducial_1mm_Mask2mm                                        8.0710    28.5230    0.0000  top
+FM2       Fiducial                     Fiducial_1mm_Mask2mm                                       53.0710    27.7730    0.0000  top
+FM3       Fiducial                     Fiducial_1mm_Mask2mm                                       52.3710     2.8730    0.0000  top
+J1        USB_C_Receptacle_USB2.0_16P  USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal     4.0960    18.0930  -90.0000  top
+J2        Conn_01x04                   Molex_CLIK-Mate_502386-0470_1x04-1MP_P1.25mm_Horizontal    37.7960     2.9230    0.0000  top
+J4        Conn_Coaxial                 U.FL_Hirose_U.FL-R-SMT-1_Vertical                          56.3460    19.9480    0.0000  top
+L1        10n                          L_0402_1005Metric                                          33.6210    25.2880   90.0000  top
+L2        10u                          L_0805_2012Metric                                          36.3210    28.2730    0.0000  top
+L3        2n7                          L_0402_1005Metric                                          44.8060    19.9830    0.0000  top
+R1        5k1                          R_0402_1005Metric                                           6.5710    11.0230  180.0000  top
+R2        5k1                          R_0402_1005Metric                                           6.8310    24.5230    0.0000  top
+R3        220R                         R_0402_1005Metric                                          39.0710    12.5130   90.0000  top
+R4        220R                         R_0402_1005Metric                                          40.3210    12.5130   90.0000  top
+R5        220R                         R_0402_1005Metric                                          44.5710    12.2730  -90.0000  top
+R6        5k1                          R_0402_1005Metric                                          25.8210     8.2730    0.0000  top
+R7        220R                         R_0402_1005Metric                                          20.5610     5.5230  -90.0000  top
+SW1       SW_Push                      SW_SPST_CK_RS282G05A3                                      27.4610     1.7730    0.0000  top
+U1        MIC5365-3.3YD5               TSOT-23-5                                                  14.7085    11.6605  -90.0000  top
+U2        USBLC6-2SC6                  SOT-23-6                                                   15.3885    18.7230    0.0000  top
+U3        STM32WB55CEU6                QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm                        34.8210    18.7730   90.0000  top
+X1        32kHz768                     Crystal_SMD_2012-2Pin_2.0x1.2mm                            32.2710    12.5230  180.0000  top
+X2        32MHz                        Crystal_SMD_2016-4Pin_2.0x1.6mm                            40.3710    25.0730   90.0000  top
+## End
